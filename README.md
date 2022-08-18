@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdip-b" alt="rajdip-b" /></a> </p>
 
-- 🔭 I’m currently working on [KodeIt, CollegePartner](https://github.com/KodeIt, https://github.com/CollegePartner)
+- 🔭 I’m currently working on [KodeIt](https://github.com/KodeIt), [CollegePartner](https://github.com/CollegePartner)
 
 - 🌱 I’m currently learning **Express.js**
 
