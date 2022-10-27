@@ -33,3 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdip-b&" alt="rajdip-b" /></p>
 
+<h3 align="center">Hacktoberfest2022 timeline</h3>
+
+[![@rajb47's Holopin board](https://holopin.me/rajb47)](https://holopin.io/@rajb47)
