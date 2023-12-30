@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdip-b" alt="rajdip-b" /></a> </p>
 
-- 🔭 I’m currently working on [KodeIt](https://github.com/KodeIt), [CollegePartner](https://github.com/CollegePartner)
+- 🔭 I’m currently working on [keyshade](https://github.com/keyshade-xyz)
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **TO STAY FOCUSSED**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajdip-b?tab=repositories](https://github.com/rajdip-b?tab=repositories)
 
